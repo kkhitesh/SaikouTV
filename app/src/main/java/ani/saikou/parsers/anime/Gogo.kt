@@ -7,6 +7,15 @@ import ani.saikou.parsers.*
 import ani.saikou.parsers.anime.extractors.FPlayer
 import ani.saikou.parsers.anime.extractors.GogoCDN
 import ani.saikou.parsers.anime.extractors.StreamSB
+import ani.saikou.parsers.anime.extractors.ALions
+import ani.saikou.parsers.anime.extractors.AWish
+import ani.saikou.parsers.anime.extractors.DoodStream
+import ani.saikou.parsers.anime.extractors.FileMoon
+import ani.saikou.parsers.anime.extractors.Mp4Upload
+import ani.saikou.parsers.anime.extractors.OkRu
+import ani.saikou.parsers.anime.extractors.RapidCloud
+import ani.saikou.parsers.anime.extractors.StreamTape
+import ani.saikou.parsers.anime.extractors.VidStreaming
 
 class Gogo : AnimeParser() {
     override val name = "Gogo"
